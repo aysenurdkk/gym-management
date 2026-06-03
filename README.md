@@ -1,27 +1,27 @@
-# 🏋️ GymPro - Spor Salonu Yönetim Sistemi
+#  GymPro - Spor Salonu Yönetim Sistemi
 
 Profesyonel spor salonu yönetim sistemi. Üye, antrenör ve admin panelleri ile kapsamlı bir yönetim çözümü.
 
-## 🚀 Özellikler
+##  Özellikler
 
-### 👑 Admin Paneli
+###  Admin Paneli
 - Kullanıcı yönetimi (üye, antrenör, admin)
 - Paket yönetimi (oluştur, düzenle, sil)
 - Gelir ve devam raporları
 - Dashboard istatistikleri
 
-### 🏋️ Antrenör Paneli
+###  Antrenör Paneli
 - Program oluşturma ve yönetimi
 - Üye devam takibi (check-in/check-out)
 - Üye listesi görüntüleme
 
-### 👤 Üye Paneli
+###  Üye Paneli
 - Paket satın alma
 - Derse kayıt olma
 - Ödeme geçmişi
 - Kişisel dashboard
 
-## 🛠️ Teknolojiler
+##  Teknolojiler
 
 | Katman | Teknoloji |
 |--------|-----------|
@@ -31,7 +31,7 @@ Profesyonel spor salonu yönetim sistemi. Üye, antrenör ve admin panelleri ile
 | Auth | JWT, bcryptjs |
 | Stil | CSS (Inter font) |
 
-## 📦 Kurulum
+##  Kurulum
 
 ```bash
 # Backend
@@ -47,7 +47,7 @@ npm run dev
 
 Uygulama: `http://localhost:5173`
 
-## 🔐 Giriş Bilgileri
+##  Giriş Bilgileri
 
 | Rol | E-posta | Şifre |
 |-----|---------|-------|
@@ -80,6 +80,3 @@ gym-management/
 └── README.md
 ```
 
-## 👩‍💻 Geliştirici
-
-**Ayşenur Dik**
